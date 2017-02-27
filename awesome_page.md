@@ -1,3 +1,5 @@
+**merge conflict**
+
 **bold text**
 
 *italic*
