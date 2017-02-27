@@ -1,4 +1,4 @@
-**change**
+**merge conflict**
 
 **bold text**
 
