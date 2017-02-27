@@ -1,6 +1,8 @@
 # phase-0-gps-1
 Repo for GPS 1.1 
 
+This edit is to recognize that I did not have proper workflow with my last commit. I pushed branch add-command-log to the master on my local, and not to github. 
+
 ls -la = This command lists all files within your current directory, this includes hidden folders. 
 
 mkdir = This command is make directory, its makes a new directory in your current working directory.
